@@ -168,7 +168,7 @@ def relatorio_excel():
             ws.append([
                 "",
                 "Sem dados registrados",
-                "",
+                "",ch
                 "",
                 ""
             ])
